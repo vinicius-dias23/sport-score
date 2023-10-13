@@ -1,0 +1,12 @@
+.box-principal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media screen {
+  .box-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

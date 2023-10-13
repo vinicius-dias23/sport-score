@@ -1,0 +1,18 @@
+.timer {
+  font-size: x-large;
+}
+
+.botao-marcar-ponto {
+  width: 100%;
+}
+
+.icone-adicionar-ponto {
+  height: '5vh' !important;
+  font-size: '100px' !important;
+}
+
+.icone-remover-ponto {
+  width: '100%';
+  height: '30vh';
+  font-size: '100px';
+}

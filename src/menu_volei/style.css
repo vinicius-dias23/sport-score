@@ -1,0 +1,44 @@
+.conteudo-jogadores {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex: 1;
+  background-image: url('quadraVolei3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  padding: 40px;
+  border-style: solid;
+  border-color: aliceblue;
+  border-width: 10px;
+}
+
+.conteudo-partida {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex: 1;
+  padding: 40px;
+  background-color: rgb(225, 225, 225);
+  border-style: solid;
+  border-color: aliceblue;
+  border-width: 10px;
+}
+
+.time1 {
+  margin-bottom: 40px;
+}
+
+.time2 {
+  margin-top: 40px;
+}
+
+.conteudo-drawer {
+  padding: 20px;
+  max-width: 25vh;
+}
+
+.label-descricao-grupo {
+  padding-bottom: 20vh;
+}
